@@ -7,11 +7,11 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/graphql-go/graphql"
+	"github.com/gstarikov/graphql"
 
 	"context"
 
-	"github.com/graphql-go/graphql/gqlerrors"
+	"github.com/gstarikov/graphql/gqlerrors"
 )
 
 const (
